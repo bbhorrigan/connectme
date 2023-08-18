@@ -7,7 +7,7 @@ A fun Discord bot that integrates with OpenAI's ChatGPT to provide AI-powered re
 
 ## Features
 
-- **AI-powered Chat**: Engage in conversations with the power of OpenAI's ChatGPT model.
+- **AI-powered Chat**: Engage in conversations with the power of OpenAI's ChatGPT service.
 - **Easy Integration**: Quick setup to get ChatGPT in your server.
 
 ## Installation & Setup
