@@ -12,7 +12,7 @@ A fun Discord bot that integrates with OpenAI's ChatGPT to provide AI-powered re
 
 ## Installation & Setup
 
-1. **Clone the Repository**:
+1. ***Clone the Repository***:
 
     
     git clone https://github.com/connectme
